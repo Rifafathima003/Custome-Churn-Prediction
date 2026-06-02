@@ -1,6 +1,9 @@
 # Customer Churn Prediction
 **Codec Technologies Data Analytics Internship — Project 1**
 
+## Churn Prediction Dashboard
+  🖇️ https://custome-churn-prediction-bgdrtqvnfpu783fkvruszp.streamlit.app/
+
 ## Business Problem
 Customer churn (cancellation of service) costs telecom and SaaS companies millions annually.
 This project builds an ML pipeline to predict which customers are at risk of churning,
